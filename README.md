@@ -39,5 +39,5 @@ CLEAR/
 │   │   ├── perception/     # Camera/LiDAR 데이터 처리
 │   │   └── controller/     # Pure Pursuit 기반 저수준 제어
 │   └── fms_web/            # 2D Web Dashboard (React)
-├── docs/                   # 수행계획서 및 HCI Korea 논문 초안
+├── docs/                   # 수행계획서, 결과 보고서, 논문
 └── docker-compose.yml      # 통합 배포 환경 설정
